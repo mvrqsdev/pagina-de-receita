@@ -13,7 +13,9 @@ Este repositório contém uma página simples desenvolvida com **HTML** e **CSS*
 - Imagens ilustrativas e seção com modo de preparo.
 
 ## 📂 Estrutura de Arquivos
-
+- assets/
+- index.html
+- style.css
 
 ## 🛠️ Tecnologias Utilizadas
 
